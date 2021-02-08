@@ -1,4 +1,4 @@
-//Rezolvazrile in JavaScript nu sunt inca acceptate pe PbInfo
+//Rezolvarile in JavaScript nu sunt inca acceptate pe PbInfo
 
 var n = window.prompt("Introdu numarul n:")
 n = parseInt(n)
